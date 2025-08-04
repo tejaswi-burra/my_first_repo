@@ -1,0 +1,6 @@
+Name: Tejaswi
+Course:BCA
+Today, I learned the basics of using GitHub. I created a new repository, added a new file, 
+and explored how to use Git commands to track changes.
+I also learned how to create and edit files directly from the GitHub interface.
+This gave me a good understanding of managing code and version control using GitHub.
